@@ -1,0 +1,17 @@
+C:\Users\cefalo\source\Task-Manager\TaskManager.Service\bin\Debug\net6.0\TaskManager.Service.deps.json
+C:\Users\cefalo\source\Task-Manager\TaskManager.Service\bin\Debug\net6.0\TaskManager.Service.dll
+C:\Users\cefalo\source\Task-Manager\TaskManager.Service\bin\Debug\net6.0\TaskManager.Service.pdb
+C:\Users\cefalo\source\Task-Manager\TaskManager.Service\bin\Debug\net6.0\TaskManager.Database.dll
+C:\Users\cefalo\source\Task-Manager\TaskManager.Service\bin\Debug\net6.0\TaskManager.Repository.dll
+C:\Users\cefalo\source\Task-Manager\TaskManager.Service\bin\Debug\net6.0\TaskManager.Repository.pdb
+C:\Users\cefalo\source\Task-Manager\TaskManager.Service\bin\Debug\net6.0\TaskManager.Database.pdb
+C:\Users\cefalo\source\Task-Manager\TaskManager.Service\obj\Debug\net6.0\TaskManager.Service.csproj.AssemblyReference.cache
+C:\Users\cefalo\source\Task-Manager\TaskManager.Service\obj\Debug\net6.0\TaskManager.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cefalo\source\Task-Manager\TaskManager.Service\obj\Debug\net6.0\TaskManager.Service.AssemblyInfoInputs.cache
+C:\Users\cefalo\source\Task-Manager\TaskManager.Service\obj\Debug\net6.0\TaskManager.Service.AssemblyInfo.cs
+C:\Users\cefalo\source\Task-Manager\TaskManager.Service\obj\Debug\net6.0\TaskManager.Service.csproj.CoreCompileInputs.cache
+C:\Users\cefalo\source\Task-Manager\TaskManager.Service\obj\Debug\net6.0\TaskManager.Service.csproj.CopyComplete
+C:\Users\cefalo\source\Task-Manager\TaskManager.Service\obj\Debug\net6.0\TaskManager.Service.dll
+C:\Users\cefalo\source\Task-Manager\TaskManager.Service\obj\Debug\net6.0\refint\TaskManager.Service.dll
+C:\Users\cefalo\source\Task-Manager\TaskManager.Service\obj\Debug\net6.0\TaskManager.Service.pdb
+C:\Users\cefalo\source\Task-Manager\TaskManager.Service\obj\Debug\net6.0\ref\TaskManager.Service.dll
